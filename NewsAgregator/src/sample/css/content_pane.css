@@ -1,0 +1,27 @@
+.pane{
+	-fx-border: 1;
+	-fx-border-color: #b9cccc;
+	-fx-border-radius: 10;
+	-fx-background-radius: 10;
+	-fx-background-color: #b9cccc;
+}
+
+.progress-bar > .bar {
+    -fx-background-insets: 1 1 2 1;
+    -fx-padding: 0.20em;
+}
+
+.time_pane{
+	-fx-text-fill: #717377;
+	-fx-font: 13px "Times New Romans";
+}
+
+.name_article{
+	-fx-text-fill: #063784;
+	-fx-font: 15px "Times New Romans";
+	-fx-alignment: center-left;
+}
+
+.pane:hover .name_article{
+	-fx-underline: true;
+}

@@ -1,0 +1,27 @@
+.HBox_top{
+	-fx-background-color:  #85adad;
+}
+
+.label_prof{
+	-fx-font-size: 20;
+	-fx-font-family: "Times New Roman";
+	-fx-underline: true;
+}
+
+.label_prof: hover{
+	-fx-text-fill: #466EAD;
+}
+
+.butt_search{
+	-fx-background-color: #6FA0ED;
+	-fx-font-size: 15;
+	-fx-text-fill: white;
+}
+
+.butt_search: hover{
+	-fx-background-color: #466EAD;
+}
+
+.label_upload{
+	-fx-text-fill: #85adad;	
+}

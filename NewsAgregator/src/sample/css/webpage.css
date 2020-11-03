@@ -1,0 +1,20 @@
+.back{
+	-fx-background-color: #ffffff; 
+	-fx-font: 20px "Times New Romans"; 
+	-fx-text-fill: #85adad;
+}
+
+.back:hover{
+	-fx-text-fill: #476b6b;
+	-fx-font-weight: bold;
+}
+
+.viewMore{
+	-fx-border: none;
+	-fx-font: 25px "Times New Romans"; 
+	-fx-text-fill: #85adad;
+}
+
+.viewMore:hover{
+	-fx-text-fill: #476b6b;
+}

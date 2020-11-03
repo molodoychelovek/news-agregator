@@ -1,0 +1,49 @@
+.left_VBox,
+.comBox_site,
+.comBox_genres,
+.history_butt,
+.saving_butt,
+.setting_butt,
+.about_butt,
+.marks_butt,
+.label_course,
+.pane{
+	-fx-background-radius: 0;
+	-fx-background-color:  #85adad;
+	-fx-text-fill: white;
+	-fx-font-size: 15;
+}
+
+.left_VBox{
+
+}
+
+.comBox_site{
+    
+}
+
+.comBox_genres{
+	
+}
+
+
+.history_butt{
+	-fx-border-width: 1 0 0 0;
+	-fx-border-color: white;	
+}
+
+.label_course{
+	-fx-border-width: 1 0 0 0;
+	-fx-border-color: white;
+	-fx-font: 13px "Times New Romans";
+}
+
+.comBox_site: hover,
+.comBox_genres: hover,
+.history_butt: hover,
+.saving_butt: hover,
+.about_butt: hover,
+.marks_butt: hover,
+.setting_butt: hover{
+	-fx-background-color: #476b6b;
+}
